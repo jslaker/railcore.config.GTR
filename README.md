@@ -2,7 +2,7 @@
 
 Klipper printer.cfg config for Railcore II 300ZL using a BigTreeTech GTR as MCU
 
-Printer hardware setup that deviates from a standard kit, you will need to adjust these values as appropriate for your printer:
+Printer hardware that deviates from a standard kit - you will need to adjust these values as appropriate for your printer:
 * Slice Mosquito Hotend
 * [5150 Blower Duct for Mosquito](https://www.thingiverse.com/thing:4575325)
 * Hotend is configured for a thermocouple rather than a thermistor
