@@ -1,6 +1,6 @@
 # railcore.config.GTR
 
-Klipper printer.cfg config for Railcore II 300ZL using a BigTreeTech GTR as MCU
+Klipper printer.cfg config for the Railcore II 300ZL using a BigTreeTech GTR as MCU
 
 Printer hardware that deviates from a standard kit - you will need to adjust these values as appropriate for your printer:
 * Slice Mosquito Hotend
